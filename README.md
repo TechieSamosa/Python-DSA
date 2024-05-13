@@ -1,5 +1,14 @@
 # DSA Python Practice Repository
-
+<div align='center'>
+  <img src="https://img.shields.io/github/contributors/TheNaiveSamosa/Python-DSA?style=for-the-badge&color=blue" alt="GitHub contributors">
+  <img src="https://img.shields.io/github/issues-closed-raw/TheNaiveSamosa/Python-DSA?style=for-the-badge&color=brightgreen" alt="GitHub Closed issues">
+  <img src="https://img.shields.io/github/issues-pr/TheNaiveSamosa/Python-DSA?style=for-the-badge&color=aqua" alt="GitHub PR Open">
+  <img src="https://img.shields.io/github/issues-pr-closed-raw/TheNaiveSamosa/Python-DSA?style=for-the-badge&color=blue" alt="GitHub PR closed">
+  <img src="https://img.shields.io/github/languages/count/TheNaiveSamosa/Python-DSA?style=for-the-badge&color=brightgreen" alt="GitHub language count">
+  <img src="https://img.shields.io/github/last-commit/TheNaiveSamosa/Python-DSA?style=for-the-badge&color=blue" alt="GitHub last commit">
+  <img src="https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?style=for-the-badge" alt="GitHub Maintained">
+  <img src="https://img.shields.io/github/repo-size/TheNaiveSamosa/Python-DSA?style=for-the-badge&color=aqua" alt="Github Repo Size">
+</div>
 This repository contains my daily practice code for Data Structures and Algorithms in Python.
 
 ## Folders
